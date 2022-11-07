@@ -1,0 +1,14 @@
+{
+  "signup": {
+    "email": "test.developer.com",
+    "firstName": "Hello",
+    "lastName": "World",
+    "phone": "+256770000000",
+    "password": "password",
+    "question": [
+      {
+        "question1": "answe1"
+      }
+    ]
+  }
+}
